@@ -2,9 +2,6 @@
 
 import numpy as np
 from bert_serving.client import BertClient
-from bert_serving.server.helper import get_args_parser
-from bert_serving.server import BertServer
-
 
 if __name__ == '__main__':
 	"""
